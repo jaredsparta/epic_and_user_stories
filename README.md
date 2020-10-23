@@ -52,3 +52,7 @@ Desktop users need a “view fullscreen” button in the lower right hand corner
 - In the planning phase of a sprint or iteration, the team can choose which user stories they'll deal with during that sprint or iteration.
 - The user stories will be on a sprint backlog and over the course of the sprint, each one is taken care of.
 - After each sprint, more and more user stories will have been dealt with.
+
+---
+Used:  
+[Epics and User stories](https://www.atlassian.com/agile/project-management)
