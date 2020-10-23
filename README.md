@@ -14,18 +14,15 @@
 - Each user story contributes to the completion of the epic story.
 - D.O.D. is usually when the stated user can complete the outlined task.
 
-
-## Examples
+---
+**Benefits**
 - One of the benefits of this way is that epics and user stories can be written at differing levels of detail, allowing flexibility in development.
-- An example of a epic/user story exemplar is:
-    - "As a \<person>, I want \<some goal> so that \<reason>"
-    - Where epics are more general people, user stories are more specific to the type of person
+- Epics allow teams to always have a connection to a greater business goal in mind.
+- User stories allow teams to keep their focus on the end user while enabling collaboration.
 
-**Example 1**
-- Epic story:  
-Improve streaming service for Q1 launch
-
-This can be split up into specific user stories, depending on which type of user we are interested in helping currently.
+**Example**
+- Epic story:  Improve streaming service for Q1 launch
+    - This can be split up into specific user stories, depending on which type of user we are interested in helping currently.
 
 - User story 1:  
 iPhone users need access to a vertical view of the live feed when using the mobile app.
@@ -54,9 +51,9 @@ Desktop users need a “view fullscreen” button in the lower right hand corner
 - After each sprint, more and more user stories will have been dealt with.
 
 **Summary**
-- Epics usually have time-boxed requirements and therefore fit well in Agile as a goal to accomplish over certain sprints.
-- User stories fit in perfectly with Scrum: each sprint requires a team to accomplish a certain amount of work and user stories can be used to choose the features and requirements to finish
+- Epics usually have time-boxed requirements and therefore fit well in Agile as a goal to accomplish over a certain number of sprints/iterations.
+- User stories fit in perfectly with Scrum: each sprint requires a team to accomplish a certain amount of work and user stories can be used to choose the features and requirements that the team should finish.
 
 ---
-Used:  
-[Epics and User stories](https://www.atlassian.com/agile/project-management)
+**Used:** 
+- [Epics and User stories](https://www.atlassian.com/agile/project-management)
