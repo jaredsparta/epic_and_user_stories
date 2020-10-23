@@ -5,6 +5,7 @@
 - They often encompass multiple teams working on multiple projects.
 - They are delivered over a set of sprints.
 - Could include some time-scale for completion
+- Use cases are the high level business goals that the end users wish to achieve by using the product.
 
 **What is a user story?**
 - A user story is a generalised explanation of a product feature written from the perspective of the end users.
@@ -39,20 +40,6 @@ Desktop users need a “view fullscreen” button in the lower right hand corner
     1. An android team
     2. An iOS team
     3. A desktop team
-
----
-
-**Example 2**
-- Epic story:  
-As a **Marketing Lead**, **I want** to have a content management system **so that** I can manage and provide quality content and experience to my readers.
-
-Again, we can break this task up into smaller ones, with more specific types of marketing leads in mind.
-
-- User story 1:  
-As a Content Owner, I want to be able to create product content so that I can provide information and market to customers.
-
-- User story 2:  
-As an Editor, I want to review content before it is published so that I can assure it is optimized with correct grammar and tone.
 
 ----
 ##
