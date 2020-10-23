@@ -53,6 +53,10 @@ Desktop users need a “view fullscreen” button in the lower right hand corner
 - The user stories will be on a sprint backlog and over the course of the sprint, each one is taken care of.
 - After each sprint, more and more user stories will have been dealt with.
 
+**Summary**
+- Epics usually have time-boxed requirements and therefore fit well in Agile as a goal to accomplish over certain sprints.
+- User stories fit in perfectly with Scrum: each sprint requires a team to accomplish a certain amount of work and user stories can be used to choose the features and requirements to finish
+
 ---
 Used:  
 [Epics and User stories](https://www.atlassian.com/agile/project-management)
